@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/NetBeansModuleDevelopment-files/template_myplugin-toc.xml to edit this template
+-->
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN" "http://java.sun.com/products/javahelp/toc_2_0.dtd">
+<toc version="2.0">
+    <tocitem text="module-with-jhelp">
+        <tocitem text="About module-with-jhelp" target="com.mwulle.module.with.jhelp.about"/>
+    </tocitem>
+</toc>

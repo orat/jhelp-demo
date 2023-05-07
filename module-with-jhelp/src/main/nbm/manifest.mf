@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Layer: com/mwulle/module/with/jhelp/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/mwulle/module/with/jhelp/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+
